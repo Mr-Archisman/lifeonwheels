@@ -9,7 +9,7 @@
 }
 .homebackground{
     margin-top: 110px;
-    height:600px !important;
+    height:650px !important;
     background-image:url(../assets/lifeonwheel.jpg);
     background-position: center;
     background-attachment: fixed;
@@ -89,7 +89,7 @@
         font-family: 'Edu VIC WA NT Beginner', cursive;
     }
     .contact-img{
-        height: 550px !important;
+        height: 600px !important;
         background-position: center;
         background-size: cover;
         background-image: linear-gradient(rgba(0,56,70,.7),rgba(0,56,70,.7)),url(../assets/person-traveling-road.jpg);
